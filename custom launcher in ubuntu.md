@@ -1,6 +1,7 @@
 # Create a launcher file with the specifed content
 
 $ cd /usr/share/applications
+
 $ sudo vi <applicaiton>.desktop
 
 ----input----

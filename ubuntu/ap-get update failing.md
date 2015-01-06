@@ -20,6 +20,7 @@ E: Some index files failed to download. They have been ignored, or old ones used
 
 The URLs specified don't exit anymore, which explains why I am getting this error. After some quick google, I try to **sudo apt-get update --fix-missing**, but that still doesn't  help. Then I stumble upon [this](http://blog.launchpad.net/ppa/failed-to-fetch-errors-for-ppas), and it has brighten up my day.
 
+
 ### Fix the missing indexes - by removing them
 
 - Check sources list to comment out the missing indexes.
@@ -27,12 +28,12 @@ The URLs specified don't exit anymore, which explains why I am getting this erro
 ```bash
 $ sudo gedit /etc/apt/sources.list
 ```
-
 - Also check the sources lists in this directory, because the **gophers-go-trusty.list** I have problem with actually lives inside this folder.
 
 ```bash
 $ cd /etc/apt/sources.list.d
 ```
+
 
 ### Summary
 

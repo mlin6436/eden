@@ -33,9 +33,3 @@ $ sudo gedit /etc/apt/sources.list
 ```bash
 $ cd /etc/apt/sources.list.d
 ```
-
-### Summary
-
-After the tweaks, I am back on business after `sudo apt-get update`.
-
-So Why is this happening? I am using ubuntu 14.04, and the endpoints seem to have gradually been deprecated since 2011 according to [this](https://lists.launchpad.net/launchpad-users/msg06219.html), so I really don't the answer to it.

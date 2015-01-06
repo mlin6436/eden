@@ -18,6 +18,6 @@ $ sudo apt-get autoremove
 
 Using PPA to install atom has worked for me quite happily until recently, either because of a problematic PPA portal or a broken release webupd8 put online. Anywhere, I fall back to the last resort: the [offical channel](https://github.com/atom/atom), and surprisingly, the installation process seemed easy enough.
 
-+ Down `atom-amd64.deb` from [Atom releases page](https://github.com/atom/atom/releases/tag/v0.166.0).
-+ Run `sudo dpkg --install atom-amd64.deb` on the downloaded package.
-+ Launch Atom using the installed `atom` command.
+- Down `atom-amd64.deb` from [Atom releases page](https://github.com/atom/atom/releases/tag/v0.166.0).
+- Run `sudo dpkg --install atom-amd64.deb` on the downloaded package.
+- Launch Atom using the installed `atom` command.

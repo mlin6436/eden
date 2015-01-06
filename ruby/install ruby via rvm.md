@@ -1,3 +1,7 @@
+### Prerequisite
+
+Ubuntu 14.04, Mac OS X (with Terminal installed)
+
 ### Intro to RVM
 
 A full documentation on what is RVM, what it does, why uses it and a full guide on how to install it, is available [here](https://rvm.io/) and [here](https://github.com/wayneeseguin/rvm). Following would be brief steps to install RVM and Ruby on Linux/Mac with some problem shooting.

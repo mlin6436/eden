@@ -24,7 +24,7 @@ $ source ~/.rvm/scripts/rvm
 
 **Note**
 
-- Type in **type rvm | head -1** and it should show **rvm is a function**, otherwise RVM hasn't been sourced correctly.
+- Type in *type rvm | head -1* and it should show *rvm is a function*, otherwise RVM hasn't been sourced correctly.
 
 - Ensure that RVM is sourced after any path settings as RVM and manipulates the path. If you don't do this, RVM may not work as expected.
 
@@ -38,7 +38,7 @@ $ rvm use ruby-head # to use a specific version of ruby
 
 **Note**
 
-- On ubuntu, I bump into some problems when trying to **install ruby**, like following
+- On ubuntu, I bump into some problems when trying to *install ruby*, like following
 
 ```
 Searching for binary rubies, this might take some time.
@@ -50,9 +50,9 @@ please read /home/eden/.rvm/log/1379872584_ruby-1.9.3-p448/update_system.log
 Requirements installation failed with status: 100.
 ```
 
-To resolve this issue, refer to **ubuntu/apt-get failing**.
+To resolve this issue, refer to *ubuntu/apt-get failing*.
 
-- On ubuntu, there could be more problem trying to **use ruby**,
+- On ubuntu, there could be more problem trying to *use ruby*,
 
 ```
 RVM is not a function, selecting rubies with 'rvm use ...' will not work.

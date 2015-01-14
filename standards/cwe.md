@@ -1,11 +1,11 @@
 ### Top 25 Common Weakness Enumeration
 
-This may seem a bit much for some fast moving development environments, but by no means redundant, at all. And there are quite a few common symptoms having been plaguing the software development industry, simply because of the lack of awareness. Therefore, it is important to be mindful of them when hacking the way through.
+These are the common symptoms that have been plaguing the software development industry, so be mindful of them no matter you are a dev, QA or PM.
 
-This document is meant to be used as a general purpose reference, and further details can be found following the [link](http://cwe.mitre.org/top25/).
+Further details can be found following the [link](http://cwe.mitre.org/top25/).
 
 | ID  | Name |
-| ---------------------------------------------- | -----:|
+| ---------------------------------------------- | :-----|
 | [CWE-89](http://cwe.mitre.org/top25/#CWE-89)   | Improper Neutralisation of Special Elements used in an SQL Command ('SQL Injection') |
 | [CWE-78](http://cwe.mitre.org/top25/#CWE-78)   | Improper Neutralisation of Special Elements used in an OS Command ('OS Command Injection') |
 | [CWE-120](http://cwe.mitre.org/top25/#CWE-120) | Buffer Copy without Checking Size of Input ('Classic Buffer Overflow') |

@@ -2,7 +2,7 @@
 
 Ubuntu 14.04
 
-ubuntu
+Ubuntu
 ======
 
 - [apt-get update failing](https://github.com/mlin6436/eden/blob/master/ubuntu/apt-get%20update%20failing.md)

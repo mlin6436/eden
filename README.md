@@ -5,4 +5,5 @@ I've done these things a thousand times, and I probably will do them for another
 
 - [github](https://github.com/mlin6436/eden/tree/master/github)
 - [ruby](https://github.com/mlin6436/eden/tree/master/ruby)
+- [standards](https://github.com/mlin6436/eden/tree/master/standards)
 - [ubuntu](https://github.com/mlin6436/eden/tree/master/ubuntu)

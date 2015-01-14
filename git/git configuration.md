@@ -14,13 +14,13 @@ $ git config --global user.email mlin6436@gmail.com
 To edit the commit message already pushed to remote branch, simply force the change by using `--force` or `-f`:
 
 ```bash
-& git config --global core.editor vim
+$ git config --global core.editor vim
 ```
 
 ### Use a template for commit message:
 
 ```bash
-& git config --global commit.template ~/.gitmessage.txt
+$ git config --global commit.template ~/.gitmessage.txt
 ```
 
 The template `~/.gitmessage.txt` would have something like:

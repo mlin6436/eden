@@ -1,8 +1,9 @@
 Eden
 ====
 
-I've done these things a thousand times, and I probably will do them for another thousand more. But why haven't I automated them yet? Probably just because they are too trivial and I am not clever enough.
+A playbook for devs.
 
+- [Functional Programming](https://github.com/mlin6436/eden/tree/master/fp)
 - [Git](https://github.com/mlin6436/eden/tree/master/git)
 - [GitHub](https://github.com/mlin6436/eden/tree/master/github)
 - [Ruby](https://github.com/mlin6436/eden/tree/master/ruby)

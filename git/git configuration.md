@@ -1,3 +1,5 @@
+# Git Configuration
+
 To start with, Git will look for `/etc/gitconfig` to retrieve custom settings for all users on the target machine. Secondly, Git will look up `~/.gitconfig` or `~/.config/git/config` for settings specific to an individual user.
 
 Here is a list of things to do when first setting up Git:

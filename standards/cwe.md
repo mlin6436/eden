@@ -1,4 +1,4 @@
-### Top 25 Common Weakness Enumeration
+# Top 25 Common Weakness Enumeration
 
 These are the common symptoms that have been plaguing the software development industry, so be mindful of them no matter you are a dev, QA or PM.
 

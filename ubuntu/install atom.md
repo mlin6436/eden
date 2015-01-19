@@ -1,3 +1,5 @@
+# Install Atom
+
 ### Install Atom via PPA
 
 Thanks to [webupd8](http://www.webupd8.org/2014/05/install-atom-text-editor-in-ubuntu-via-ppa.html), Atom can be easily installed via the PPA they provided.

@@ -1,3 +1,5 @@
+# Install Ruby via RVM
+
 ### Prerequisite
 
 Ubuntu 14.04, Mac OS X (with Terminal installed)
@@ -32,7 +34,7 @@ $ rvm list rubies # to get a list of installed ruby versions
 
 - Why not use `apt-get` or `brew` to install ruby?
 
-apt-get and brew are the simplest ways of having a working copy of ruby, but it will soon turn disastrous because the ruby versions can't be managed properly, not to mention switching between versions, or working with multiple versions at the same time. That's why using RVM is a better way of working with Ruby. 
+apt-get and brew are the simplest ways of having a working copy of ruby, but it will soon turn disastrous because the ruby versions can't be managed properly, not to mention switching between versions, or working with multiple versions at the same time. That's why using RVM is a better way of working with Ruby.
 
 - What does `\curl -sSL https://get.rvm.io | bash -s stable --rails` really mean?
 

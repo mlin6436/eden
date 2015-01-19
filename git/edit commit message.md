@@ -1,3 +1,5 @@
+# Edit Commit Message
+
 ### Edit a commit message
 
 To edit the commit message in an [editor of choice](https://github.com/mlin6436/eden/blob/master/github/git%20configuration.md):

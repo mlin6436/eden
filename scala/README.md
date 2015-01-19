@@ -1,10 +1,8 @@
-Scala
-======
+# Scala
 
 There are a few topics I'd like to cover in greater detail, and here is a list of them:
 
-Functional Programming Features
-------
+### Functional Programming Features
 
 - Evaluation Strategy and Termination
     - Call by value
@@ -15,8 +13,7 @@ Functional Programming Features
 - Anonymous Functions (Lambda Expression)
 - Currying
 
-Object-Oriented Programming Features
-------
+### Object-Oriented Programming Features
 
 - Inheritance
     - Abstact Class

@@ -1,3 +1,5 @@
+# SSH keys for GitHub
+
 ### Generate new ssh key
 
 ```bash

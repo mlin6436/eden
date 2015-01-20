@@ -28,7 +28,7 @@
 | change | r | cw(§) | ncw(§) | cc(§) | ncc(§) |
 | copy (yank) into buffer | yw | nyw | yy | nyy |
 | p | paste buffer after/below cursor |||||
-| P | paste buffer before/above cursor |||||
+| P | *paste buffer before/above cursor* |
 | delete -> move cursor -> paste = cut & paste |||||
 | copy -> move cursor -> paste = duplicate |||||
 

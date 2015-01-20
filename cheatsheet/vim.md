@@ -23,14 +23,17 @@
 | D | delete to end of line |
 
 | Editing | 1 char | 1 word | n words | 1 line | n lines |
- -------- | :----: | :----: | :-----: | :----: | ------: |
- delete | x | dw | ndw | dd | ndd |
- change | r | cw(§) | ncw(§) | cc(§) | ncc(§) |
- copy (yank) into buffer | yw | nyw | yy | nyy |
- p       | paste buffer after/below cursor              |||||
- P       | paste buffer before/above cursor             |||||
- delete -> move cursor -> paste = cut & paste           |
- copy -> move cursor -> paste = duplicate               |
+| ------- | ------ | ------ | ------- | ------ | ------- |
+| delete | x | dw | ndw | dd | ndd |
+| change | r | cw(§) | ncw(§) | cc(§) | ncc(§) |
+| copy (yank) into buffer | yw | nyw | yy | nyy |
+
+| Editing | Explanation |
+| ------- | ----------- |
+| p | paste buffer after/below cursor |
+| P | paste buffer before/above cursor |
+| | delete -> move cursor -> paste = cut & paste |
+| | copy -> move cursor -> paste = duplicate |
 
 | Searching for Text | Explanation |
 | ------------------ | ----------- |

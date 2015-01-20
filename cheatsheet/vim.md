@@ -1,7 +1,7 @@
 # Vim Cheat Sheet
 
 <table border="1" cellpadding="0" cellspacing="0" dir="ltr" style="border-collapse: collapse; border: 1px solid #ccc; font-family: arial,sans,sans-serif; font-size: 13px; table-layout: fixed;"><colgroup><col width="120"></col><col width="120"></col><col width="120"></col><col width="120"></col><col width="120"></col><col width="120"></col></colgroup><tbody>
-<tr style="height: 17px;"><td colspan="4" rowspan="1" style="background-color: #cccccc; direction: ltr; font-weight: bold; padding: 0px 3px; vertical-align: bottom;">Navigating File</td><td colspan="2" rowspan="4" style="direction: ltr; padding: 0px 3px; vertical-align: bottom;"><div style="max-height: 67px;"><img src="/media/2014-03-28-vim-cheat-sheet/hjkl.png" width="150" /></div>
+<tr style="height: 17px;"><td colspan="4" rowspan="1" style="background-color: #cccccc; direction: ltr; font-weight: bold; padding: 0px 3px; vertical-align: bottom;">Navigating File</td><td colspan="2" rowspan="4" style="direction: ltr; padding: 0px 3px; vertical-align: bottom;"><div style="max-height: 67px;"></div>
 </td></tr>
 <tr style="height: 17px;"><td colspan="2" rowspan="1" style="direction: ltr; padding: 0px 3px; vertical-align: bottom;">w forward one word</td><td colspan="2" rowspan="1" style="direction: ltr; padding: 0px 3px; vertical-align: bottom;">b back to start of word</td></tr>
 <tr style="height: 17px;"><td colspan="2" rowspan="1" style="direction: ltr; padding: 0px 3px; vertical-align: bottom;">0 start of line</td><td colspan="2" rowspan="1" style="direction: ltr; padding: 0px 3px; vertical-align: bottom;">$ end of line</td></tr>

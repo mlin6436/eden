@@ -23,7 +23,7 @@
 | D | delete to end of line |
 
 | Editing | 1 char | 1 word | n words | 1 line | n lines |
-| ------- | ------ | ------ | ------- | ------ | ------- |
+ -------- | :----: | :----: | :-----: | :----: | ------: |
 | delete | x | dw | ndw | dd | ndd |
 | change | r | cw(§) | ncw(§) | cc(§) | ncc(§) |
 | copy (yank) into buffer | yw | nyw | yy | nyy |

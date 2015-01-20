@@ -37,6 +37,7 @@ $ sbt # run sbt to enter sbt command mode
 In addition, here is a list of commands in sbt (similar to Maven):
 
 | Commands          | Explanation   |
+| ----------------- | ------------- |
 | clean             | Deletes all generated files (in the target directory). |
 | compile           | Compiles the main sources (in src/main/scala and src/main/java directories). |
 | test              | Compiles and runs all tests. |
@@ -49,6 +50,7 @@ In addition, here is a list of commands in sbt (similar to Maven):
 There are also some funky `History commands` (this is awesome in comparison to bash commands):
 
 | History commands | Explanation |
+| ---------------- | ----------- |
 | !                | Show history command help. |
 | !!               | Execute the previous command again. |
 | !:               | Show all previous commands. |

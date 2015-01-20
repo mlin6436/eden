@@ -10,3 +10,4 @@ Ubuntu 14.04
 - [Install Java](https://github.com/mlin6436/eden/blob/master/ubuntu/install%20java.md)
 - [Install Atom](https://github.com/mlin6436/eden/blob/master/ubuntu/install%20atom.md)
 - [Install Spotify](https://github.com/mlin6436/eden/blob/master/ubuntu/install%20spotify.md)
+- [Passwordless Login](https://github.com/mlin6436/eden/blob/master/ubuntu/passwordless%20login.md)

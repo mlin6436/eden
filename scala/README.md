@@ -1,5 +1,6 @@
 # Scala
 
+- [Play](https://github.com/mlin6436/eden/blob/master/scala/play.md)
 - [SBT](https://github.com/mlin6436/eden/blob/master/scala/sbt.md)
 
 There are a few topics I'd like to cover in greater detail, and here is a list of them:

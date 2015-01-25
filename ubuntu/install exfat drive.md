@@ -5,5 +5,6 @@ The official packages `exfat-utils` and `exfat-fuse` does the trick as it turns 
 ```bash
 $ sudo apt-get update
 $ sudo apt-get install exfat-utils exfat-fuse
-$ sudo reboot
 ```
+
+Reboot the system to see the update taking effect.

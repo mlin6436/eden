@@ -14,4 +14,5 @@ Ubuntu 14.04
 - [Install Java](https://github.com/mlin6436/eden/blob/master/ubuntu/install%20java.md)
 - [Install Spotify](https://github.com/mlin6436/eden/blob/master/ubuntu/install%20spotify.md)
 - [Passwordless Login](https://github.com/mlin6436/eden/blob/master/ubuntu/passwordless%20login.md)
+- [Reverse Mouse Scroll](https://github.com/mlin6436/eden/blob/master/ubuntu/reverse%20mouse%20scroll.md)
 - [Turn off Amazon Search Result](https://github.com/mlin6436/eden/blob/master/ubuntu/turn%20off%20amazon%20search%20result.md)

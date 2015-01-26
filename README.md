@@ -2,6 +2,7 @@
 
 A playbook for devs.
 
+- [Architect](https://github.com/mlin6436/eden/tree/master/architect)
 - [Cheat Sheet](https://github.com/mlin6436/eden/tree/master/cheatsheet)
 - [Git](https://github.com/mlin6436/eden/tree/master/git)
 - [GitHub](https://github.com/mlin6436/eden/tree/master/github)

@@ -1,5 +1,7 @@
 # crontab
 
+Crontab Format:
+
 ```text
 MIN HOUR DOM MON DOW CMD
 ```
@@ -23,54 +25,42 @@ Cron job can't be used to schedule a task to execute every second.
 | @hourly | 0 * * * * |
 | @reboot | Run at startup. |
 
-### To view cron jobs
-
 ```bash
 $ crontab -l
 ```
-
-### To edit cron jobs
+To view cron jobs.
 
 ```bash
 $ crontab -e
 ```
-
-### Schedule to execute at a specific time
+To edit cron jobs.
 
 ```bash
 30 08 10 06 * CMD
 ```
-
-### Schedule to execute more than once
+To schedule command to execute at a specific time.
 
 ```bash
 00 11,16 * * * CMD
 ```
-
-To execute at 11:00 and 16:00
-
-### Schedule to execute at a specific range of time
+To schedule command to execute at 11:00 and 16:00.
 
 ```bash
 00 09-18 * * * CMD
 ```
-
-To execute between 9:00 and 18:00
-
-### Schedule to execute every minute
+To schedule command to execute between 9:00 and 18:00.
 
 ```bash
 $ * * * * * CMD
 ```
-
-### Schedule to execute every 10 minutes
+To schedule command to execute every minute.
 
 ```bash
 $ */10 * * * * CMD
 ```
-
-### Schedule to execute every year using special keyword
+To schedule command to execute every 10 minutes.
 
 ```bash
 $ @yearly CMD
 ```
+To schedule command to execute every year using special keyword.

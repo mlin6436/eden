@@ -95,7 +95,7 @@ $ awk '{print NF}' file
 
 `NF`, aka number of fields, uses whitespace as delimiter and returns the field number the value will change when delimiter is redefined with ``-F`
 
-***Note**
+**Note**
 
 `awk '{print $NF}' file` will print out the last field of the line instead of number of fields, the similar usage is $0, which prints out the line.
 

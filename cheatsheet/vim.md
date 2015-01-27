@@ -1,5 +1,12 @@
 # Vim Cheat Sheet
 
+Mastering this guide is more than enough to use Vim efficiently with day job, but if you are looking to become a hard core [Vimer](http://en.wikipedia.org/wiki/Editor_war), here is some more.
+
+- [Vim Keyboard Cheat Sheet](http://michael.peopleofhonoronly.com/vim/)
+- [Slightly Funkier Vim Cheat Sheet](http://www.lagmonster.org/docs/vi2.html)
+- [Yet Another Vim Cheat Sheet](http://www.fprintf.net/vimCheatSheet.html)
+- [Vim Overload](http://docs.freebsd.org/44doc/usd/12.vi/paper.html)
+
 | Navigating File | Explanation |
 | --------------- | ----------- |
 | h | move left a column |

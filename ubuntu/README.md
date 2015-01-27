@@ -19,6 +19,12 @@ Ubuntu 14.04
 # Shell Operation Commands
 
 - [awk](https://github.com/mlin6436/eden/blob/master/ubuntu/awk.md)
+- chmod (1-e; 2-w; 4-r)
+- [crontab](https://github.com/mlin6436/eden/blob/master/ubuntu/crontab.md)
 - cut
-- sed
+- grep
+- head
+- [sed](https://github.com/mlin6436/eden/blob/master/ubuntu/sed.md)
 - sort
+- tail
+- wc

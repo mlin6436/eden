@@ -4,6 +4,7 @@ A playbook for devs.
 
 - [Architect](https://github.com/mlin6436/eden/tree/master/architect)
 - [Cheat Sheet](https://github.com/mlin6436/eden/tree/master/cheatsheet)
+- [.NET](https://github.com/mlin6436/eden/tree/master/dotnet)
 - [Git](https://github.com/mlin6436/eden/tree/master/git)
 - [GitHub](https://github.com/mlin6436/eden/tree/master/github)
 - [Go](https://github.com/mlin6436/eden/tree/master/go)

@@ -8,6 +8,7 @@ A playbook for devs.
 - [GitHub](https://github.com/mlin6436/eden/tree/master/github)
 - [Go](https://github.com/mlin6436/eden/tree/master/go)
 - [JavaScript](https://github.com/mlin6436/eden/tree/master/javascript)
+- [Methodology](https://github.com/mlin6436/eden/tree/master/methodology)
 - [MongoDB](https://github.com/mlin6436/eden/tree/master/mongodb)
 - [Python](https://github.com/mlin6436/eden/tree/master/python)
 - [Ruby](https://github.com/mlin6436/eden/tree/master/ruby)

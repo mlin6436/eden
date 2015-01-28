@@ -145,3 +145,15 @@ Idea of not hard-wiring a direct relationship to a dependent into object. In Jav
 ### Design Patterns
 
 A classic book on Design Patterns by Erich Gamma et Al.Ask your local technical leader to lend you his or her copy of the book; and if they don't have a copy then that really sucks. Tell them to give a training budget and buy the book yourself!
+
+### ACID
+
+ACID (Atomicity, Consistency, Isolation, Durability) is a set of properties that guarantee that database transactions are processed reliably.
+
+### 1NF
+
+First normal form (1NF) is a property of a relation in a relational database. A relation is in first normal form if the domain of each attribute contains only atomic values, and the value of each attribute contains only a single value from that domain.
+
+### 2NF
+
+Second normal form (2NF) is a normal form used in database normalisation. A table is in 2NF if and only if it is in 1NF and every non-prime attribute of the table is dependent on the whole of every candidate key.

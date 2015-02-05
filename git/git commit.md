@@ -1,4 +1,4 @@
-# Edit Commit Message
+# git commit
 
 ### Edit a commit message
 

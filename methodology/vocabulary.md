@@ -157,3 +157,7 @@ First normal form (1NF) is a property of a relation in a relational database. A 
 ### 2NF
 
 Second normal form (2NF) is a normal form used in database normalisation. A table is in 2NF if and only if it is in 1NF and every non-prime attribute of the table is dependent on the whole of every candidate key.
+
+### Monkey Patch
+
+A monkey patch is a way for a program to extend or modify supporting system software locally (affecting only the running instance of the program).

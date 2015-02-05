@@ -14,17 +14,6 @@ There are some good comments [here](http://blog.madhukaraphatak.com/scala-for-an
 - Type inference
 - Community support
 
-### Functional Programming Features
-
-- Evaluation Strategy and Termination
-    - Call by value
-    - Call by name
-- Scope
-- Recursion
-- Higher-Order Functions
-- Anonymous Functions (Lambda Expression)
-- Currying
-
 ### Object-Oriented Programming Features
 
 - Inheritance

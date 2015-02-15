@@ -7,7 +7,6 @@ A playbook for devs.
 - [Dictionary](https://github.com/mlin6436/eden/tree/master/dictionary)
 - [Git](https://github.com/mlin6436/eden/tree/master/git)
 - [GitHub](https://github.com/mlin6436/eden/tree/master/github)
-- [Ruby](https://github.com/mlin6436/eden/tree/master/ruby)
 - [Scala](https://github.com/mlin6436/eden/tree/master/scala)
 - [SQL](https://github.com/mlin6436/eden/tree/master/sql)
 - [Ubuntu](https://github.com/mlin6436/eden/tree/master/ubuntu)

@@ -14,4 +14,3 @@ A playbook for devs.
 - [Security](https://github.com/mlin6436/eden/tree/master/security)
 - [SQL](https://github.com/mlin6436/eden/tree/master/sql)
 - [Ubuntu](https://github.com/mlin6436/eden/tree/master/ubuntu)
-- [Windows](https://github.com/mlin6436/eden/tree/master/windows)

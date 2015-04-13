@@ -1,3 +1,11 @@
 h2 {
     display: none;
 }
+
+section.pipeline-component h1 {
+    font-size: 16px;
+}
+
+.SUCCESS {
+      background-color: #228b22;
+}

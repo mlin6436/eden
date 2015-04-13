@@ -1,3 +1,10 @@
+h2 {
+    display: none;
+}
+
+section.pipeline-component h1 {
+    display: none;
+}
 
 .SUCCESS {
       background-color: #228b22;

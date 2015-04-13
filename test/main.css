@@ -3,9 +3,17 @@ h2 {
 }
 
 section.pipeline-component h1 {
-    font-size: 16px;
+    display: none;
 }
 
 .SUCCESS {
       background-color: #228b22;
+}
+
+._jsPlumb_connector {
+    display: none;
+}
+
+.stage_ci-trigger-to-int {
+    display: none;
 }
